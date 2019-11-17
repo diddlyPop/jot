@@ -22,8 +22,7 @@ TODO
 
 ## Installation
 
-To execute:  
-`python3 jot.py`
+TODO
 
 
 ----------------------------------------------------
